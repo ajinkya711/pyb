@@ -1,0 +1,9 @@
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)'))': /simple/mockito/
+Collecting mockito
+  Using cached mockito-1.5.0-py3-none-any.whl.metadata (1.5 kB)
+Using cached mockito-1.5.0-py3-none-any.whl (30 kB)
+Installing collected packages: mockito
+Successfully installed mockito-1.5.0
+
+[notice] A new release of pip is available: 23.3.1 -> 24.0
+[notice] To update, run: python.exe -m pip install --upgrade pip
